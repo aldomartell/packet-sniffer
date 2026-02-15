@@ -1,0 +1,26 @@
+# Compiled binaries
+packet_sniffer
+packet_sniffer_v2
+
+# Object files
+*.o
+*.so
+*.a
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.out
+*.exe
