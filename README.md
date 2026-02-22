@@ -180,20 +180,8 @@ Possible improvements:
 - **Raw Sockets**: Linux man pages: `man 7 packet`, `man 2 socket`
 - **Packet Structure**: Wireshark documentation on protocol dissection
 
-## Files
-
-- `packet_sniffer.c` - Main sniffer using raw sockets
-- `packet_sniffer_v2.c` - Alternative version using libpcap (more portable)
-- `README.md` - This file
-
-## License
-
-This is an educational project for learning network programming and security concepts.
-
 ## Author
 
 Aldo Martell - Cybersecurity Enthusiast, Home Lab Enthusiast
 
----
 
-**Questions or improvements?** Feel free to open an issue or submit a pull request!
